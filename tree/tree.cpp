@@ -1,7 +1,7 @@
 ﻿// training_cpp.cpp: 定义应用程序的入口点。
 //
 
-#include "training_cpp.h"
+#include "tree.h"
 
 using namespace std;
 

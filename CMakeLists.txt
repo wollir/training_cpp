@@ -4,6 +4,11 @@
 cmake_minimum_required (VERSION 3.8)
 
 project ("training_cpp")
+set(CMAKE_CXX_STANDARD 11)
 
 # 包含子项目。
-add_subdirectory ("training_cpp")
+add_subdirectory ("tree")
+add_subdirectory ("list")
+add_subdirectory ("array")
+
+
