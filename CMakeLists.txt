@@ -10,5 +10,7 @@ set(CMAKE_CXX_STANDARD 11)
 add_subdirectory ("tree")
 add_subdirectory ("list")
 add_subdirectory ("array")
+add_subdirectory ("new_feature")
+
 
 
